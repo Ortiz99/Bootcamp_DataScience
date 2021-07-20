@@ -1,0 +1,13 @@
+¿Por qué usar Python para el análisis de datos?
+
+1. La gran comunidad activa
+2. Es de código abierto
+3. Está muy desarrollado en ámbitos como el aprendizaje automatico y machine learning
+
+Librerias importantes
+
+1. pandas = procesamiento de datos estructurados.
+2. scikit-learn = modelamiento de datos.
+
+
+Introducción a Python
